@@ -8,3 +8,6 @@ let myName = "james";
 greeter("myName", new Date());
 
 let myList: number[] = [1,2,3,4 ];
+ let myNum = 7;
+ let myArray = [];
+ let myObj = {};
